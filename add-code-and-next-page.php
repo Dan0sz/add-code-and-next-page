@@ -4,7 +4,7 @@
  * Plugin URI: https://dev.daanvandenbergh.com/wordpress-plugins/
  * Description: Adds 'code' and 'next page' buttons to visual editor.
  * Author: Daan van den Bergh
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author URI: https://dev.daanvandenbergh.com
  * License: GPL2v2 or later
  */
