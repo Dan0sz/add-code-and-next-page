@@ -15,7 +15,7 @@ I created this plugin to save you and me some time by not having to switch back 
 1. From your terminal, `cd` to your plugins directory (usually `wp-content/plugins`)
 1. Run the following command: `git clone https://github.com/Dan0sz/add-code-and-next-page.git add-code-and-next-page`
 
-## From the Wordpress Repository
+### From the Wordpress Repository
 
 1. From your WordPress administrator area, go to *Plugins > Add New*
 1. Search for 'Daan van den Bergh'
@@ -24,8 +24,8 @@ I created this plugin to save you and me some time by not having to switch back 
 
 No further configuration required.
 
-## Frequently Asked Questions ==
+## Frequently Asked Questions
 
-= Can I buy you a beer? =
+*Can I buy you a beer?*
 
 Yes, please! [Click here to buy me a beer](https://dev.daanvandenbergh.com/donate/ "Let's do shots!")!
