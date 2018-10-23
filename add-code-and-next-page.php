@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Add Code and Next Page Button
+ * Plugin Name: `<code>` and `<!--nextpage-->` for Visual Editor
  * Plugin URI: https://dev.daanvandenbergh.com/wordpress-plugins/
  * Description: Adds 'code' and 'next page' buttons to visual editor.
  * Author: Daan van den Bergh
